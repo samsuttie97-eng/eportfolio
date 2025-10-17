@@ -10,7 +10,7 @@ body {
 	padding: 0;
 	background: #fa7d1e;
 	font-family: "Open Sans", sans-serif;
-	font-size: 18px;
+	font-size: 15px;
 	color: #00078a;
 }
 
@@ -149,7 +149,7 @@ a:hover {
 	font-family: "Open Sans", sans-serif;
 	font-size: 16px;
 	font-weight: 300;
-	color: #d2d4fa;
+	color: #00078a;
 }
 
 #menu a:hover, #menu .current_page_item a {
@@ -273,6 +273,7 @@ a:hover {
 	color: #fa7d1e;
 
 }
+
 
 
 

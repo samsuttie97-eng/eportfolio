@@ -238,8 +238,9 @@ a:hover {
 	background: #d2d4fa;
 	text-align: center;
 	outline-color:green;
-padding: 5px;
-p.dotted {outline-style: dotted;}
+	padding: 5px;
+	outline-style: dotted;
+}
 
 .box-style h2 {
 	padding: 10px 0px;
@@ -263,6 +264,7 @@ p.dotted {outline-style: dotted;}
 	color: #d2d4fa;
 
 }
+
 
 
 

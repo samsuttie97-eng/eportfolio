@@ -238,7 +238,7 @@ a:hover {
 	background: #d2d4fa;
 	text-align: center;
 	outline-color:#fa7d1e;
-	padding: 50px;
+	padding: I 50px;
 	outline-style: solid;
 }
 
@@ -259,10 +259,19 @@ a:hover {
 {
 	display: inline-block;
 	margin: 1em 0em;
-	background: #000;
+	background: #00078a;
 	padding: 1em 2em;
-	color: #FFFFFF;
+	color: #d2d4fa;
+	outline-color:#fa7d1e;
+	padding: 20px;
+	outline-style: solid;
+
 }
+
+#button:hover {
+	text-decoration: none;
+	color: #fa7d1e;
+
 
 
 

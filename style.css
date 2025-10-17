@@ -238,8 +238,8 @@ a:hover {
 	background: #d2d4fa;
 	text-align: center;
 	outline-color:#fa7d1e;
-	padding: 20px;
-	outline-style: dotted;
+	padding: I 50px;
+	outline-style: solid;
 }
 
 .box-style h2 {
@@ -264,13 +264,14 @@ a:hover {
 	color: #d2d4fa;
 	outline-color:#fa7d1e;
 	padding: 20px;
-	outline-style: dotted;
+	outline-style: solid;
 
 }
 
 #button:hover {
 	text-decoration: none;
 	color: #fa7d1e;
+
 
 
 

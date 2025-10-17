@@ -10,7 +10,7 @@ body {
 	padding: 0;
 	background: #fa7d1e;
 	font-family: "Open Sans", sans-serif;
-	font-size: 15px;
+	font-size: 18px;
 	color: #00078a;
 }
 
@@ -147,9 +147,9 @@ a:hover {
 	text-decoration: none;
 	text-align: center;
 	font-family: "Open Sans", sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 300;
-	color: #FFFFFF;
+	color: #d2d4fa;
 }
 
 #menu a:hover, #menu .current_page_item a {
@@ -190,7 +190,7 @@ a:hover {
 	padding-top: 18px;
 	line-height: normal;
 	text-align: center;
-	text-shadow: 1px 1px 0px #bdc0ff;
+	text-shadow: 1px 1px 0px #d2d4fa;
 	color: #00078a;
 }
 
@@ -237,7 +237,9 @@ a:hover {
 .box-style {
 	background: #d2d4fa;
 	text-align: center;
-}
+	outline-color:green;
+padding: 5px;
+p.dotted {outline-style: dotted;}
 
 .box-style h2 {
 	padding: 10px 0px;
@@ -261,6 +263,7 @@ a:hover {
 	color: #d2d4fa;
 
 }
+
 
 
 

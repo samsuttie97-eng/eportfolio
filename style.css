@@ -237,9 +237,9 @@ a:hover {
 .box-style {
 	background: #d2d4fa;
 	text-align: center;
-	border-color:#fa7d1e;
-	padding: 50px;
-	border-style: solid;
+	outline-color:#fa7d1e;
+	padding: I 50px;
+	outline-style: solid;
 }
 
 .box-style h2 {
@@ -271,6 +271,7 @@ a:hover {
 .button:hover {
 	text-decoration: none;
 	color: #fa7d1e;
+}
 
 
 

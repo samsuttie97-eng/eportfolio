@@ -10,7 +10,7 @@ body {
 	padding: 0;
 	background: #fa7d1e;
 	font-family: "Open Sans", sans-serif;
-	font-size: 15px;
+	font-size: 18px;
 	color: #00078a;
 }
 
@@ -149,7 +149,7 @@ a:hover {
 	font-family: "Open Sans", sans-serif;
 	font-size: 16px;
 	font-weight: 300;
-	color: #00078a;
+	color: #d2d4fa;
 }
 
 #menu a:hover, #menu .current_page_item a {
@@ -238,7 +238,7 @@ a:hover {
 	background: #d2d4fa;
 	text-align: center;
 	outline-color:#fa7d1e;
-	padding: 50px;
+	padding: I 50px;
 	outline-style: solid;
 }
 
@@ -251,9 +251,8 @@ a:hover {
 
 .box-style .content {
 	overflow: hidden;
-	width: auto;
+	width: 324px;
 	padding: 30px;
-	box-sizing: border-box;
 }
 
 .button

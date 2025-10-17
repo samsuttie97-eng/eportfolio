@@ -251,8 +251,9 @@ a:hover {
 
 .box-style .content {
 	overflow: hidden;
-	width: 324px;
+	width: auto;
 	padding: 30px;
+	box-sizing: border-box;
 }
 
 .button
@@ -273,6 +274,7 @@ a:hover {
 	color: #fa7d1e;
 
 }
+
 
 
 

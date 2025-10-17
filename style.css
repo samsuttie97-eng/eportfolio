@@ -109,7 +109,7 @@ a:hover {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: fa7d1e;
+	color: #fa7d1e;
 }
 
 
@@ -270,6 +270,7 @@ a:hover {
 .button:hover {
 	text-decoration: none;
 	color: #fa7d1e;
+
 
 
 

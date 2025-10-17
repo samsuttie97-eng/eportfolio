@@ -237,9 +237,9 @@ a:hover {
 .box-style {
 	background: #d2d4fa;
 	text-align: center;
-	outline-color:#fa7d1e;
-	padding: 50px;
-	outline-style: solid;
+	border: 4px;
+	border-color: #fa7d1e;
+	border-style: solid; 
 }
 
 .box-style h2 {
@@ -273,6 +273,7 @@ a:hover {
 	color: #fa7d1e;
 
 }
+
 
 
 

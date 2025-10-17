@@ -211,44 +211,66 @@ a:hover {
 }
 
 
+/* Three Column Content */
+
 #three-column {
-  display: flex;
-  justify-content: space-between;
-  padding: 10px 0 50px;
+	overflow: hidden;
+	padding: 10px 0px 50px 0px;
 }
 
-#three-column > div {
-  flex: 1;
-  margin: 0 10px;
+#three-column .tbox1 {
+	float: left;
+	width: 384px;
+	margin-right: 20px;
+}
+
+#three-column .tbox2 {
+	float: left;
+	width: 384px;
+}
+
+#three-column .tbox3 {
+	float: right;
+	width: 384px;
 }
 
 .box-style {
-  background: #d2d4fa;
-  text-align: center;
-  border: 3px solid #fa7d1e;
-  padding: 40px;
-  box-sizing: border-box;
+	background: #d2d4fa;
+	text-align: center;
+	border-color:#fa7d1e;
+	padding: 50px;
+	border-style: solid;
+}
+
+.box-style h2 {
+	padding: 10px 0px;
+	letter-spacing: -1px;
+	font-size: 22px;
+	color: #fa7d1e;
 }
 
 .box-style .content {
-  padding: 20px;
-  width: auto;
+	overflow: hidden;
+	width: 324px;
+	padding: 30px;
 }
 
-.button {
-  display: inline-block;
-  margin-top: 1em;
-  background: #00078a;
-  color: #d2d4fa;
-  border: 2px solid #fa7d1e;
-  padding: 1em 2em;
-  text-align: center;
-  cursor: pointer;
+.button
+{
+	display: inline-block;
+	margin: 1em 0em;
+	background: #00078a;
+	padding: 1em 2em;
+	color: #d2d4fa;
+	outline-color:#fa7d1e;
+	padding: 20px;
+	outline-style: solid;
+
 }
 
 .button:hover {
-  color: #fa7d1e;
-}
+	text-decoration: none;
+	color: #fa7d1e;
 
 
 

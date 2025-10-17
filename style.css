@@ -262,12 +262,16 @@ a:hover {
 	background: #00078a;
 	padding: 1em 2em;
 	color: #d2d4fa;
+	outline-color:#fa7d1e;
+	padding: 20px;
+	outline-style: dotted;
 
 }
 
 #button:hover {
 	text-decoration: none;
 	color: #fa7d1e;
+
 
 
 

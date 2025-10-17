@@ -238,7 +238,7 @@ a:hover {
 	background: #d2d4fa;
 	text-align: center;
 	outline-color:#fa7d1e;
-	padding: I 50px;
+	padding: 50px;
 	outline-style: solid;
 }
 
@@ -272,6 +272,7 @@ a:hover {
 	text-decoration: none;
 	color: #fa7d1e;
 }
+
 
 
 

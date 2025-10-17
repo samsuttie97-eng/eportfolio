@@ -118,7 +118,7 @@ a:hover {
 	overflow: hidden;
 	height: 52px;
 	margin-bottom: 2em;
-	background: #000000;
+	background: #fa7d1e;
 }
 
 #menu {
@@ -145,7 +145,7 @@ a:hover {
 	border: none;
 	text-decoration: none;
 	text-align: center;
-	font-family: 'Oswald', sans-serif;
+	font-family: "Open Sans", sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	color: #FFFFFF;
@@ -260,6 +260,7 @@ a:hover {
 	color: #FFFFFF;
 
 }
+
 
 
 

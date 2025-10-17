@@ -8,7 +8,7 @@ Released for free under the Creative Commons Attribution License
 body {
 	margin: 0;
 	padding: 0;
-	background: #E5E6DD;
+	background: #b9fac2;
 	font-family: 'Oxygen', sans-serif;
 	font-size: 13px;
 	color: #8A8985;
@@ -258,4 +258,5 @@ a:hover {
 	background: #000;
 	padding: 1em 2em;
 	color: #FFFFFF;
+
 }
